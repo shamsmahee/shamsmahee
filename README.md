@@ -1,4 +1,4 @@
-]
+[![MasterHead](https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1725085322~exp=1725088922~hmac=2afaaa6fcb42c438bba0f590fb083fc555eef022a9d536c3d84a51ed931edb6e&w=1380](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md Shamsul Arefin</h1>
 <h3 align="center">MERN STACK DEVELOPER</h3>
 (img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/70228075433665747/")
