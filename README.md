@@ -1,7 +1,7 @@
 ![person-playing-3d-video-games-device](https://github.com/user-attachments/assets/d687d10f-367e-4c63-a364-c9d41292ff62)
 <h1 align="center">Hi 👋, I'm Md Shamsul Arefin</h1>
 <h3 align="center">MERN STACK DEVELOPER</h3>
-(img align="right" alt="Coding" width="400" src="")
+(img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsmahee&label=Profile%20views&color=0e75b6&style=flat" alt="shamsmahee" /> </p>
 
@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamsmahee&show_icons=true&locale=en" alt="shamsmahee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamsmahee&" alt="shamsmahee" /></p>
-
-
