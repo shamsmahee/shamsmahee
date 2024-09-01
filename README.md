@@ -1,4 +1,4 @@
-![person-playing-3d-video-games-device](https://github.com/user-attachments/assets/d687d10f-367e-4c63-a364-c9d41292ff62)
+![Purple Minimalist App Developer New LinkedIn Banner](https://github.com/user-attachments/assets/94a55fbc-8aaa-4697-b9b7-357dca2e0f47)
 <h1 align="center">Hi 👋, I'm Md Shamsul Arefin</h1>
 <h3 align="center">MERN STACK DEVELOPER</h3>
 (img align="right" alt="Coding" width="400" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671")
